@@ -1,0 +1,22 @@
+{
+  "name": "moduleTest",
+  "version": "0.1.0",
+  "summary": "A short description of moduleTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/夏全灵/moduleTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "夏全灵": "quanling_xia@163.com"
+  },
+  "source": {
+    "git": "https://github.com/夏全灵/moduleTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "moduleTest/Classes/**/*"
+}
